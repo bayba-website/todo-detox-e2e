@@ -4,7 +4,7 @@
 
 ## Quick start
 
-- Clone: https://github.com/nhanhuynh-agilityio/todo-detox-e2e.git
+- Clone: https://github.com/bayba-website/todo-detox-e2e
 
 - Installing dependencies:
 
